@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: Placeholder: https://yourdomain.com/sitemap.xml
